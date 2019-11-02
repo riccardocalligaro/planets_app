@@ -1,4 +1,4 @@
-# planets_app
+# planets_app 🚀
 
 A **practice** application developed in Flutter following [this](https://sergiandreplace.com/planets-flutter-from-design-to-app/) tutorial. The detail page is incomplete. 
 
